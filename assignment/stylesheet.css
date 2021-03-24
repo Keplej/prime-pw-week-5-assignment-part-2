@@ -6,9 +6,11 @@ header {
 
 main {
   background-color: lightgrey;
+  padding: 1em;
 }
 
 body {
-  background-image: url(/Users/johnnykeple/prime/tier1/prime-pw-week-5-assignment-part-2/assignment/record.png);
+  background-image: url(record.png);
   background-repeat: repeat;
+  margin: 0;
 }
